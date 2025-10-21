@@ -1,1 +1,0 @@
-# sporeco-system
